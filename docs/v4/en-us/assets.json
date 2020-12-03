@@ -1,22 +1,22 @@
 [
-  {
-    "Id": "22a36fe4-99c7-4ae1-b9d3-9404fcb05595",
-    "Title": "Provisioning console application sample",
+{
+    "Id": "94b00f50-5896-479c-b0c5-ff74603b35a3",
+    "Title": "Create a worksheet",
     "Description": "",
-    "Url": "https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/provisioning-console-application-sample?context=context%2Fchromeless&linktarget=true",
-    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
-    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Url": "https://support.office.com/en-us/client/94b00f50-5896-479c-b0c5-ff74603b35a3?embed=true",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
   },
   {
-    "Id": "8dcba564-d82a-4220-b5ad-f2f55f67fa29",
-    "Title": "PnP Powershell Overview",
+    "Id": "0cf0055d-49f8-464e-9dfa-8f582b32453b",
+    "Title": "Save your workbook to OneDrive",
     "Description": "",
-    "Url": "https://docs.microsoft.com/en-us/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?context=context%2Fchromeless&linktarget=true",
-    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
-    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Url": "https://support.office.com/en-us/client/0cf0055d-49f8-464e-9dfa-8f582b32453b?embed=true",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+    "SubjectId": "",
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
