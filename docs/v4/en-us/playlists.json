@@ -5,7 +5,7 @@
     "Image": "images/playlists/remotesite.png",
     "LevelId": null,
     "AudienceId": null,
-    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
     "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
     "Source": "JulieTurner",
     "CatId": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
@@ -13,7 +13,7 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "22a36fe4-99c7-4ae1-b9d3-9404fcb05595"
+      "94b00f50-5896-479c-b0c5-ff74603b35a3"
     ]
   },
   {
@@ -22,7 +22,7 @@
     "Image": "images/playlists/remotesite.png",
     "LevelId": "27f4c920-bcab-46b9-8e13-9de63e219c84",
     "AudienceId": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
-    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
     "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
     "Source": "JulieTurner",
     "CatId": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
@@ -30,8 +30,8 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "22a36fe4-99c7-4ae1-b9d3-9404fcb05595",
-      "8dcba564-d82a-4220-b5ad-f2f55f67fa29"
+      "94b00f50-5896-479c-b0c5-ff74603b35a3",
+      "0cf0055d-49f8-464e-9dfa-8f582b32453b"
     ]
   }
 ]
