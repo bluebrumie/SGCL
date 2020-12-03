@@ -13,11 +13,6 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "b53e628a-3558-44be-b14e-1a9700c9c37a",
-      "9faefc4b-60e8-46ef-892c-791e030a8d28",
-      "2819116b-ce59-41aa-8a50-a9cb5af1be45",
-      "2d194e23-a11c-4821-bc68-7a57c7cd2940",
-      "3b72f30f-1438-4551-b009-8ad6f7d924a2",
       "22a36fe4-99c7-4ae1-b9d3-9404fcb05595"
     ]
   },
@@ -35,7 +30,7 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "9faefc4b-60e8-46ef-892c-791e030a8d28",
+      "22a36fe4-99c7-4ae1-b9d3-9404fcb05595",
       "8dcba564-d82a-4220-b5ad-f2f55f67fa29"
     ]
   }
