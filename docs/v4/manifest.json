@@ -1,0 +1,17 @@
+{
+  "Telemetry": {"AppInsightKey": "d48e77e4-e40f-42f4-abff-271cc10e1357"},
+  "Version": {
+    "Manifest": "v4",
+    "ManifestMinWebPart": "4.0.0",
+    "CurrentWebPart": "4.0.0",
+    "RepoURL": "https://github.com/bluebrumie/SGLC"
+  },
+  "ContentPacks": [],
+  "AssetOrigins": [
+    "https://support.office.com",
+    "https://docs.microsoft.com"
+  ],
+  "Languages": [
+    "en-US"
+  ]
+}
