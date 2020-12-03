@@ -11,7 +11,7 @@
       "Subjects": []
     },
     {
-      "Id": "c946268b-7fa1-4778-8e85-2b65b5186947",
+      "Id": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
       "Name": "PnP",
       "Subjects": [
         {
@@ -27,7 +27,7 @@
   ],
   "Categories": [
     {
-      "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
+      "Id": "aaa54f38-1c04-43a9-a5de-7f4c14fb4190",
       "Name": "Recent PnP Learnings",
       "Image": "",
       "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
