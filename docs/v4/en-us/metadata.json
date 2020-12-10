@@ -1,46 +1,46 @@
 {
   "Technologies": [
     {
-      "Id": "1bc58e88-3db7-4a15-ad19-b3b0ab606a53",
-      "Name": "Learning Pathways",
+      "Id": "5315e869-f48d-48b4-b624-a282853bd161",
+      "Name": "Tech A",
       "Subjects": []
     },
     {
-      "Id": "24a63b0c-4f0e-4565-93d7-9b8a981e960f",
-      "Name": "Multilingual",
+      "Id": "36176e10-50bf-41ad-8388-dc50f8d07bf7",
+      "Name": "Tech B",
       "Subjects": []
     },
     {
-      "Id": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
-      "Name": "PnP",
+      "Id": "33153c4b-d590-466c-9cae-293d2d7b9fc7",
+      "Name": "Tech C",
       "Subjects": [
         {
-          "Id": "5b1a6578-0cf6-4942-9c80-7d0ac97c4a13",
-          "Name": "SPFx Generator"
+          "Id": "80868fa0-f48a-4677-9426-d62292a85e57",
+          "Name": "Tech C Sub 1"
         },
         {
-          "Id": "988803d4-3979-41e8-ba3f-1242324b0688",
-          "Name": "Provisioning"
+          "Id": "96762c09-f200-4d2a-9401-df137c41f001",
+          "Name": "Tech C Sub 2"
         }
       ]
     }
   ],
   "Categories": [
     {
-      "Id": "aaa54f38-1c04-43a9-a5de-7f4c14fb4190",
-      "Name": "Recent PnP Learnings",
+      "Id": "9b33ca40-6057-44b8-b116-8d0ffa495fb0",
+      "Name": "Cat A",
       "Image": "",
-      "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+      "TechnologyId": "5315e869-f48d-48b4-b624-a282853bd161",
       "SubjectId": "",
-      "Source": "JulieTurner",
+      "Source": "Source A",
       "SubCategories": [
         {
-          "Id": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
-          "Name": "PnP Remote Provisioning",
+          "Id": "b5726a6c-e1e9-48f7-81b3-d30898317630",
+          "Name": "Cat A SubCat 1",
           "Image": "images/categories/remote.png",
-          "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
-          "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-          "Source": "JulieTurner",
+          "TechnologyId": "33153c4b-d590-466c-9cae-293d2d7b9fc7",
+          "SubjectId": "80868fa0-f48a-4677-9426-d62292a85e57",
+          "Source": "Source A",
           "SubCategories": []
         }
       ]
@@ -48,51 +48,51 @@
   ],
   "Audiences": [
     {
-      "Id": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
-      "Name": "Developer"
+      "Id": "7753421c-9d8f-4c48-bcd7-6109b994b1c5",
+      "Name": "Audience Developer"
     },
     {
-      "Id": "922979ef-2f63-4cfa-9f70-5b36bf1f1c13",
-      "Name": "IT Admin"
+      "Id": "1b692518-c9a0-422a-b3b6-d4cd713e1f9f",
+      "Name": "Audience IT Admin"
     }
   ],
   "Sources": [
-    "JulieTurner"
+    "Source A"
   ],
   "Levels": [
     {
-      "Id": "5a958086-473d-46b3-92eb-c1e09c34263c",
-      "Name": "Beginner"
+      "Id": "fbc6e36f-ce40-4ab1-b0e4-0c90848ce9e8",
+      "Name": "Level Beginner"
     },
     {
-      "Id": "7e98bcb4-85bd-4b78-9823-3283dab21064",
-      "Name": "Intermediate"
+      "Id": "5f5c9fbe-7a04-422d-a822-76e6d469a97c",
+      "Name": "Level Intermediate"
     },
     {
-      "Id": "27f4c920-bcab-46b9-8e13-9de63e219c84",
-      "Name": "Advanced"
+      "Id": "6ccf7e65-4d6c-4899-ad83-44c255019e56",
+      "Name": "Level Advanced"
     }
   ],
   "StatusTag": [
     {
-      "Id": "164d99ed-c638-4dbb-8295-781312dee721",
-      "Name": "New"
+      "Id": "12102f53-7731-49fb-8523-8c89422e2996",
+      "Name": "Status New"
     },
     {
-      "Id": "88c75433-02c4-4aab-9606-900fe099ea16",
-      "Name": "Updated"
+      "Id": "4b531145-49c0-486e-8684-7e25078cf13f",
+      "Name": "Status Updated"
     },
     {
-      "Id": "83289991-44b8-4274-943a-9b8dcfcb94f9",
-      "Name": "Retiring"
+      "Id": "cc4be9b8-e8f9-4a4b-95ef-48514680c935",
+      "Name": "Status Retiring"
     },
     {
-      "Id": "45d78306-16fb-4ad4-affd-5314715a0323",
-      "Name": "Retired"
+      "Id": "84e6e549-b6e1-4080-974b-451fb523816f",
+      "Name": "Status Retired"
     },
     {
-      "Id": "78d72d69-8c00-4abd-a089-806d7822b250",
-      "Name": "Beta"
+      "Id": "35f88a84-2571-4a1e-bee4-13f788d767f1",
+      "Name": "Status Beta"
     }
   ]
 }

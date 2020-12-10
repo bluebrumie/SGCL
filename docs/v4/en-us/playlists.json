@@ -1,38 +1,37 @@
 [
   {
-    "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
-    "Title": "PnP remote provisioning",
+    "Id": "089bd541-d618-4d6e-868d-0c39f2aa8924",
+    "Title": "Playlist A",
     "Image": "images/playlists/remotesite.png",
-    "LevelId": null,
-    "AudienceId": null,
-    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
-    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-    "Source": "JulieTurner",
-    "CatId": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
-    "Description": "Learn all about the PnP remote provisioning model.",
-    "StatusTagId": "",
+    "LevelId": "fbc6e36f-ce40-4ab1-b0e4-0c90848ce9e8",
+    "AudienceId": "7753421c-9d8f-4c48-bcd7-6109b994b1c5",
+    "TechnologyId": "36176e10-50bf-41ad-8388-dc50f8d07bf7",
+    "SubjectId": null,
+    "Source": "Office",
+    "CatId": "9b33ca40-6057-44b8-b116-8d0ffa495fb0",
+    "Description": "Learn all about Github asset management.",
+    "StatusTagId": "12102f53-7731-49fb-8523-8c89422e2996",
     "StatusNote": "",
     "Assets": [
-      "94b00f50-5896-479c-b0c5-ff74603b35a3",
-      "8dcba564-d82a-4220-b5ad-f2f55f67fa29"
+      "4c174f71-f709-415a-9117-7d466a7ca2e5",
+      "d6a23253-ea4f-4b10-b5f0-820b598a339d"
     ]
   },
   {
-    "Id": "7ea7584c-1d5f-456e-8bd8-607bcdbc747f",
-    "Title": "PnP Demo provisioning",
+    "Id": "c642603e-52a7-413d-9ffc-608a5e5e5dff",
+    "Title": "Playlist B",
     "Image": "images/playlists/remotesite.png",
-    "LevelId": "27f4c920-bcab-46b9-8e13-9de63e219c84",
-    "AudienceId": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
-    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
-    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-    "Source": "JulieTurner",
-    "CatId": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
-    "Description": "Learn all about the PnP remote provisioning model.",
+    "LevelId": "5f5c9fbe-7a04-422d-a822-76e6d469a97c",
+    "AudienceId": "1b692518-c9a0-422a-b3b6-d4cd713e1f9f",
+    "TechnologyId": "33153c4b-d590-466c-9cae-293d2d7b9fc7",
+    "SubjectId": "80868fa0-f48a-4677-9426-d62292a85e57",
+    "Source": "Microsoft",
+    "CatId": "b5726a6c-e1e9-48f7-81b3-d30898317630",
+    "Description": "Learn all about Github asset management.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "94b00f50-5896-479c-b0c5-ff74603b35a3",
-      "0cf0055d-49f8-464e-9dfa-8f582b32453b"
+      "d923476e-8b24-4b20-a316-a16daa67b653"
     ]
   }
 ]
