@@ -1,20 +1,19 @@
 [
   {
-    "Id": "089bd541-d618-4d6e-868d-0c39f2aa8924",
+    "Id": "c642603e-52a7-413d-9ffc-608a5e5e5dff",
     "Title": "Playlist A",
     "Image": "images/playlists/remotesite.png",
-    "LevelId": "fbc6e36f-ce40-4ab1-b0e4-0c90848ce9e8",
-    "AudienceId": "7753421c-9d8f-4c48-bcd7-6109b994b1c5",
-    "TechnologyId": "36176e10-50bf-41ad-8388-dc50f8d07bf7",
-    "SubjectId": null,
-    "Source": "Office",
+    "LevelId": "5f5c9fbe-7a04-422d-a822-76e6d469a97c",
+    "AudienceId": "1b692518-c9a0-422a-b3b6-d4cd713e1f9f",
+    "TechnologyId": "33153c4b-d590-466c-9cae-293d2d7b9fc7",
+    "SubjectId": "80868fa0-f48a-4677-9426-d62292a85e57",
+    "Source": "Microsoft",
     "CatId": "b5726a6c-e1e9-48f7-81b3-d30898317630",
     "Description": "Learn all about Github asset management.",
-    "StatusTagId": "12102f53-7731-49fb-8523-8c89422e2996",
+    "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "4c174f71-f709-415a-9117-7d466a7ca2e5",
-      "d6a23253-ea4f-4b10-b5f0-820b598a339d"
+      "d923476e-8b24-4b20-a316-a16daa67b653"
     ]
   },
   {
